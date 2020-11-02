@@ -1,0 +1,8 @@
+C:\Users\Priyal\source\repos\trial\trial\bin\Debug\trial.exe.config
+C:\Users\Priyal\source\repos\trial\trial\bin\Debug\trial.exe
+C:\Users\Priyal\source\repos\trial\trial\bin\Debug\trial.pdb
+C:\Users\Priyal\source\repos\trial\trial\obj\Debug\trial.csprojAssemblyReference.cache
+C:\Users\Priyal\source\repos\trial\trial\obj\Debug\trial.csproj.CoreCompileInputs.cache
+C:\Users\Priyal\source\repos\trial\trial\obj\Debug\trial.exe
+C:\Users\Priyal\source\repos\trial\trial\obj\Debug\trial.pdb
+C:\Users\Priyal\source\repos\trial\trial\obj\Debug\trial.csproj.ResolveComReference.cache
